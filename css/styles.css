@@ -155,3 +155,25 @@ body{
             position: relative;
             left: 25%
         }
+
+       p{
+           line-height: 2;
+       }
+
+       a{
+           margin: 10px 20px;
+           text-decoration: none;
+           color: white;
+           
+       }
+
+      .footer-link:hover{
+          color: black;
+      }
+
+        
+        .copyright{
+            color: #000000;
+            font-size: 0.75rem;
+        }
+       
